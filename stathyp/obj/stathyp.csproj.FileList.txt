@@ -1,0 +1,11 @@
+bin\Debug\stathyp.exe
+bin\Debug\stathyp.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\stathyp.Properties.Resources.resources
+obj\Debug\stathyp.csproj.GenerateResource.Cache
+obj\Debug\stathyp.exe
+obj\Debug\stathyp.pdb
+obj\Debug\stathyp.MainForm.resources
+obj\Debug\stathyp.Characteristics.resources
+obj\Debug\stathyp.ResultForm.resources
+obj\Debug\stathyp.About.resources
